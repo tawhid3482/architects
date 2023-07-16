@@ -6,7 +6,7 @@
    
   }
   header{
-    background-color: rgb(243, 220, 177);
+    background-color:blanchedalmond;
     padding: 50px 240px;
   }
   nav{
@@ -170,6 +170,7 @@ main{
   text-align: center;
  padding: 10px;
   background-color: blanchedalmond;
+  
 }
 
 
@@ -206,7 +207,7 @@ main{
     
   }
 
-  @media screen and (min-width: 576px) and(max-width: 960px) {
+  @media screen and (min-width: 576px) and (max-width: 990px) {
     header{
         padding: 20px;
     }
